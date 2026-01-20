@@ -87,5 +87,4 @@ These behavioral signals can be integrated into:
 
 ---
 
-## 📁 Repository Structure
 
